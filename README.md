@@ -30,10 +30,10 @@
 ### `01 / ABOUT`
 
 ```text
-USER       underatedrain
-IDENTITY   Developer & Creator
-FOCUS      Software / Technology / Problem Solving
-PHILOSOPHY Learn continuously. Build intentionally.
+underatedrain
+Aspiring Developer 
+Software / Technology / Problem Solving
+Learn continuously. Build intentionally.
 ```
 
 I enjoy exploring technology, developing useful projects, and finding better ways to solve problems.
