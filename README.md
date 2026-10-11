@@ -72,17 +72,6 @@ I enjoy exploring technology, developing useful projects, and finding better way
   />
 </p>
 
-###  / SELECTED WORK`
-
-<p align="center">
-  <a href="https://github.com/underatedrain?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/01%20%2F%20ALL%20PROJECTS-181818?style=for-the-badge&logo=github&logoColor=white"
-      alt="Browse all projects"
-    />
-  </a>
-</p>
-
 Explore my repositories to see my projects, experiments, and progress.
 
 ###  / CONNECT`
