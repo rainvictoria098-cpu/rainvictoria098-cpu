@@ -1,6 +1,5 @@
 Hi, I'm Rain Victoria 👋
-IT Student | Aspiring Software Developer
-I am an Information Technology student currently learning:
+COE STUDENT | Aspiring Software Developer
 
 Python
 HTML
@@ -31,4 +30,4 @@ Projects
 See my repositories below for projects and practice exercises.
 
 Contact
-Email: your-email@email.com
+Email: rainvictoria098@email.com
