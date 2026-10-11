@@ -1,44 +1,91 @@
-<!-- ======================================================== -->
-<!-- HEADER SECTION WITH DYNAMIC ANIMATED WAVING BACKGROUND   -->
-<!-- ======================================================== -->
+
+<!-- UNDERATEDRAIN // PERSONAL DEVELOPER PORTFOLIO -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=UNDERATEDRAIN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=58&descSize=14&animation=twinkling" width="100%" alt="Header Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:171717,100:303030&height=200&section=header&text=UNDERATEDRAIN&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%2F%20CODE%20%2F%20IMPROVE&descAlignY=60&descSize=13&animation=twinkling"
+    width="100%"
+    alt="Animated monochrome profile banner"
+  />
 </p>
 
-<!-- DYNAMIC TYPING SUBTITLE -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3C%2F%3E+Turning+ideas+into+working+projects...;%3C%2F%3E+Continuous+learning+%26+intentional+building.;%3C%2F%3E+Writing+clean%2C+maintainable+code." alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=C9D1D9&center=true&vCenter=true&width=650&lines=Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+working+projects;Learning.+Building.+Improving."
+    alt="Animated developer introduction"
+  />
 </p>
 
-<!-- DYNAMIC STAT BADGES -->
 <p align="center">
-  <a href="https://github.com/underatedrain?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/underatedrain">
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_&_LEARNING-238636?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/underatedrain?tab=stars">
-    <img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-8A2BE2?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
-  </a>
+  <a href="https://github.com/underatedrain?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-white?style=flat-square&labelColor=111111" alt="Explore projects" />
+  </a>
+  <a href="https://github.com/underatedrain?tab=stars">
+    <img src="https://img.shields.io/badge/INTERESTS-OPEN_SOURCE-white?style=flat-square&labelColor=111111" alt="Open source interests" />
+  </a>
 </p>
 
-<br/>
+---
 
-<!-- ======================================================== -->
-<!-- ABOUT ME TERMINAL SECTION                                -->
-<!-- ======================================================== -->
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="28"> About Me</h2>
+###  / ABOUT`
 
 ```text
-┌──(rain㉿underatedrain)-[~/about]
-└─$ cat profile.txt
+underatedrain
+Aspiring Developer 
+Software / Technology / Problem Solving
+Learn continuously. Build intentionally.
+```
 
-• Role:        Aspiring Software Developer & Builder
-• Focus:       Clean Code, Scalable Logic, and Modern Web Workflows
-• Philosophy:  Learn continuously. Build intentionally.
-• Current:     Exploring full-stack patterns and backend optimization.
+I enjoy exploring technology, developing useful projects, and finding better ways to solve problems.
+
+- Building and improving personal projects.
+- Exploring new tools, languages, and development workflows.
+- Focused on writing understandable, maintainable code.
+- Always working toward the next level.
+
+### ` / TECH STACK`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode&theme=dark" alt="Technology stack" />
+</p>
+### `03 / GITHUB ANALYTICS`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rainvictoria098-cpu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github"
+    width="49%"
+    alt="GitHub profile statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainvictoria098-cpu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
+    width="49%"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=rainvictoria098-cpu&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=777777"
+    width="75%"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+Explore my repositories to see my projects, experiments, and progress.
+
+###  / CONNECT`
+
+<p align="center">
+  <a href="https://github.com/underatedrain">
+    <img src="https://img.shields.io/badge/GITHUB-UNDERATEDRAIN-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:171717,100:050505&height=100&section=footer" width="100%" alt="Dark footer" />
+</p>
+
+<p align="center">
+  <sub>DESIGNED WITH INTENTION · BUILT THROUGH CURIOSITY</sub>
+</p>
+can you make this a better design or moving backgrounds to look the best  i want to have the best design of portfolio and unique
