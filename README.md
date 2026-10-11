@@ -27,7 +27,7 @@
 
 ---
 
-### `01 / ABOUT`
+###  / ABOUT`
 
 ```text
 underatedrain
@@ -43,13 +43,13 @@ I enjoy exploring technology, developing useful projects, and finding better way
 - Focused on writing understandable, maintainable code.
 - Always working toward the next level.
 
-### `02 / TECH STACK`
+### ` / TECH STACK`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,github,vscode&theme=dark" alt="Technology stack" />
 </p>
 
-### `03 / GITHUB ANALYTICS`
+###  / GITHUB ANALYTICS`
 
 <p align="center">
   <img
@@ -72,7 +72,7 @@ I enjoy exploring technology, developing useful projects, and finding better way
   />
 </p>
 
-### `04 / SELECTED WORK`
+###  / SELECTED WORK`
 
 <p align="center">
   <a href="https://github.com/underatedrain?tab=repositories">
@@ -85,7 +85,7 @@ I enjoy exploring technology, developing useful projects, and finding better way
 
 Explore my repositories to see my projects, experiments, and progress.
 
-### `05 / CONNECT`
+###  / CONNECT`
 
 <p align="center">
   <a href="https://github.com/underatedrain">
