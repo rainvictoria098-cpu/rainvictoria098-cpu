@@ -53,12 +53,12 @@ I enjoy exploring technology, developing useful projects, and finding better way
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=underatedrain&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=rainvictoria098-cpu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github"
     width="49%"
     alt="GitHub profile statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=underatedrain&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainvictoria098-cpu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
     width="49%"
     alt="Most used languages"
   />
@@ -66,7 +66,7 @@ I enjoy exploring technology, developing useful projects, and finding better way
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=underatedrain&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=777777"
+    src="https://streak-stats.demolab.com/?user=rainvictoria098-cpu&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=777777"
     width="75%"
     alt="GitHub contribution streak"
   />
